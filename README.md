@@ -1,4 +1,4 @@
-## Автокомплит для поиска пользователей GitHub
+## Автокомплит для поиска репозиториев GitHub
 
 [Ссылка на проект](https://vladislavostudin.github.io/Github-API-autocomplete/)
 
